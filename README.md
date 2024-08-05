@@ -6,7 +6,7 @@
 
 ## To Run this app at Terminal:
 
-`streamlit run /Users/apple/PycharmProjects/pythonProject/python-streamlit/budget-app.py [ARGUMENTS]`
+`streamlit run python budget-app`
 
 ## Tech Stack
 
